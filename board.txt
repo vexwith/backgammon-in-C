@@ -1,0 +1,23 @@
+    13   14   15   16   17   18             19   20   21   22   23   24
+===========================================================================
+#   m   n   o   p   q   r   =BLACK=   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   # BAR #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #  y #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #     #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #     #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #     #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #     #   s   t   u   v   w   x   #
+#   m   n   o   p   q   r   #     #   s   t   u   v   w   x   #
+#                                 #     #                                 #   HOME
+#                                 #     #                                 #
+#   l   k   j   i   h   g   #     #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   #     #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   #     #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   #     #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   #     #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   #  y #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   # BAR #   f   e   d   c   b   a   #
+#   l   k   j   i   h   g   =WHITE=   f   e   d   c   b   a   #
+===========================================================================
+    12   11   10   09   08   07             06   05   04   03   02   01
+
